@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.AddCategories">
+   <children>
+      <Pane fx:id="catpanel" layoutX="-558.0" layoutY="-255.0" prefHeight="200.0" prefWidth="644.0">
+         <children>
+            <Label fx:id="dsCategories" layoutX="187.0" layoutY="7.0" prefHeight="28.0" prefWidth="255.0" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

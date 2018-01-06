@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.DataTableView">
+   <children>
+      <TitledPane  animated="false" prefHeight="400.0" prefWidth="600.0" text="TableView">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <TableView  fx:id="tableview" layoutX="4.0" prefHeight="370.0" prefWidth="588.0" />
+               </children></AnchorPane>
+        </content>
+      </TitledPane>
+   </children>
+</Pane>
