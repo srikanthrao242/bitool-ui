@@ -1,1 +1,1 @@
-# Pridict UI project README
+# UI project README
