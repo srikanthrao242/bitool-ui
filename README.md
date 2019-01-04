@@ -1,1 +1,2 @@
-# UI project README
+# Used stack
+-- javafx, java
